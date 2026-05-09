@@ -19,3 +19,7 @@ https://github.com/aliasoblomov/mhr-vps-worker
 https://github.com/ajavadinezhad/zyrln
 https://github.com/Kianmhz/GooseRelayVPN
 https://github.com/NullLatency/FlowDriver
+
+Mac
+https://github.com/g3ntrix/Shade
+https://github.com/MaroMushii/Pigeon
