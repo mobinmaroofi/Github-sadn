@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-09 22:26 IR**
+
+📥 [thefeed-android-v0.17.5-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/thefeed-android-v0.17.5-arm64-v8a.apk) ｜ 9.0M
+
+---
 📅 **2026-05-09 22:13 IR**
 
 📥 [NexAlloy-2.0.103.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/NexAlloy-2.0.103.apk) ｜ 8.6M
