@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-10 16:42 IR**
+
+📥 [InstaEclipse.0.5.2.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/InstaEclipse.0.5.2.apk) ｜ 12M
+
+---
 📅 **2026-05-10 16:21 IR**
 
 📥 [WhiteDNS-1.0.0-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/WhiteDNS-1.0.0-arm64-v8a.apk) ｜ 5.1M
