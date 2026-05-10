@@ -3,6 +3,11 @@
 Click on any link below to start downloading directly.
 
 ---
+📅 **2026-05-10 11:31 IR**
+
+📥 [oryxis-setup-x86_64.exe](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/oryxis-setup-x86_64.exe) ｜ 21M
+
+---
 📅 **2026-05-09 22:26 IR**
 
 📥 [thefeed-android-v0.17.5-arm64-v8a.apk](https://github.com/nzrmohammad/Github-Sandbox/raw/main/downloads/thefeed-android-v0.17.5-arm64-v8a.apk) ｜ 9.0M
